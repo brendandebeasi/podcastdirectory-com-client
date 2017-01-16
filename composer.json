@@ -1,0 +1,14 @@
+{
+  "name": "bdbz/podcastdirectory-com-client",
+  "description": "A package that provides a client for interacting with the podcastdirectory.com website. This is an unofficial package and is for educational purposes only.",
+  "require": {
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "BDBZ\\PodcastDirectoryClient\\": "src/"
+    }
+  }
+}
