@@ -1,5 +1,14 @@
 {
+  "authors": [
+    {
+      "name": "Brendan DeBeasi",
+      "email": "b@debea.si",
+      "homepage": "https://github.com/brendandebeasi",
+      "role": "Developer"
+    }
+  ],
   "name": "bdbz/podcastdirectory-com-client",
+  "version": "1.0.0",
   "description": "A package that provides a client for interacting with the podcastdirectory.com website. This is an unofficial package and is for educational purposes only.",
   "require": {
     "guzzlehttp/guzzle": "^6.2"
