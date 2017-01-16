@@ -8,7 +8,7 @@
       "role": "Developer"
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package that provides a client for interacting with the podcastdirectory.com website. This is an unofficial package and is for educational purposes only.",
   "require": {
     "guzzlehttp/guzzle": "^6.2"
